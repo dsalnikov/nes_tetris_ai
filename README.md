@@ -1,7 +1,8 @@
-# Tetris NES AI Recognition
+# NES Tetris AI 
 
-![Image](https://raw.githubusercontent.com/dsalnikov/nes_tetris_ai/refs/heads/main/img/tetris.png)
-
+<div align="center">
+  <img src="img/tetris.png" alt="drawing" width="300"/>
+</div>
 
 This project implements an AI agent that plays NES Tetris using computer vision and evolutionary algorithms. The agent recognizes the Tetris field from the NES screen, parses the game state, and evolves strategies to maximize its score.
 
