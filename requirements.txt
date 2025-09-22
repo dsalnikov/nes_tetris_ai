@@ -1,0 +1,6 @@
+matplotlib
+nes_py
+numpy<2.0.0
+opencv-python
+imutils
+gym_tetris
